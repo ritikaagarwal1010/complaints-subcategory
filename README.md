@@ -1,2 +1,2 @@
 # complaints-subcategory
-To get Sub categorization of complaint
+**qms-complaints-subcategory** is an AWS Lambda function designed to get all the Sub categorization of a complaint
